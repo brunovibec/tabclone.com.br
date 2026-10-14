@@ -1,0 +1,31 @@
+{
+  "name": "tabclone.com.br",
+  "version": "0.0.1",
+  "description": "Implementação de ponta a ponta do tabnews.com.br.",
+  "private": "true",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunovibec/tabclone.com.br.git"
+  },
+  "keywords": [
+    "clone",
+    "devbeta",
+    "nextjs",
+    "nodejs",
+    "react",
+    "tabnews",
+    "vercel"
+  ],
+  "author": "Bruno Abreu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunovibec/tabclone.com.br/issues"
+  },
+  "homepage": "https://github.com/brunovibec/tabclone.com.br#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
