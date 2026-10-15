@@ -4,6 +4,9 @@
   "description": "Implementação de ponta a ponta do tabnews.com.br.",
   "private": "true",
   "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brunovibec/tabclone.com.br.git"
